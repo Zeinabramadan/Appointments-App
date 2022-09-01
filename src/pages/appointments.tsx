@@ -42,14 +42,14 @@ const AppointmentsPage = () => {
       <div className="structurePage">
         <Section
           name="appointment-form"
-          title="Appointment Form"
+          title="Book an appointment"
           className="appointment__form"
         >
           <AppointmentForm />
         </Section>
         <Section
           name="appointment-list"
-          title="Appointment List"
+          title="Appointments"
           className="appointment__list"
         >
           <AppointmentList />
